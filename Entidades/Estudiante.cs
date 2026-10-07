@@ -8,9 +8,9 @@ namespace Entidades
 {
     public class Estudiante : Persona
     {
-        string estado;
-        Acudiente acudiente;
-        Curso Curso;
+        public string estado{ get; set; }
+        public Acudiente acudiente{ get; set; }
+        public Curso curso{ get; set; }
 
         public Estudiante(string documento, string nombre, string telefono, string correo, string estado, Acudiente acudiente, Curso curso) : base(documento, nombre, telefono, correo)
         {
