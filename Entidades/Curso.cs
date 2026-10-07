@@ -11,12 +11,14 @@ namespace Entidades
         public string idCurso { get; set; }
         public string grado { get; set; }
         public string grupo { get; set; }
+        public List<Estudiante> estudiantes { get; set; }
 
-        public Curso(string idCurso, string grado, string grupo)
+        public Curso(string idCurso, string grado, string grupo, List<Estudiante> estudiantes)
         {
             this.idCurso = idCurso;
             this.grado = grado;
             this.grupo = grupo;
+            this.estudiantes = estudiantes;
         }
 
     }
