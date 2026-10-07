@@ -1,5 +1,5 @@
 ## Diagrama de Clases
-![Diagrama de Clases UML](./docs/diagrama_clases.png)
+![Diagrama de Clases UML](./docs/UML_Centinela.drawio.png)
 
 > [!NOTE]
-> Puedes encontrar el archivo editable de draw.io en la carpeta [`docs/`](./docs/diagrama_clases.drawio).
+> Puedes encontrar el archivo editable de draw.io en la carpeta [`docs/`](./docs/UML_Centinela.drawio.xml).
