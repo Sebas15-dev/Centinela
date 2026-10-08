@@ -9,9 +9,14 @@ namespace Entidades
     public class Profesor : Persona
     {
         public string especialidad { get; set; }
-        public Profesor(string documento, string nombre, string telefono, string correo, string especialidad) : base(documento, nombre, telefono, correo)
+        private string usuario { get; set; }
+        private string contraseñaHash{ get; set; }
+
+        public Profesor(string documento, string nombre, string telefono, string correo, string especialidad, string usuario, string contraseñaHash) : base(documento, nombre, telefono, correo)
         {
             this.especialidad = especialidad;
+            this.usuario = usuario;
+            this.contraseñaHash = contraseñaHash;
         }
     }
 }
