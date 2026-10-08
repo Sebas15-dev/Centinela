@@ -10,9 +10,12 @@ namespace Entidades
     {
         public string parentezco { get; set; }
 
-        public Acudiente(string documento, string nombre, string telefono, string correo, string parentezco) : base(documento, nombre, telefono, correo)
+        public List<Estudiante> estudiantes { get; set; }
+
+        public Acudiente(string documento, string nombre, string telefono, string correo, string parentezco, List<Estudiante> estudiantes) : base(documento, nombre, telefono, correo)
         {
             this.parentezco = parentezco;
+            this.estudiantes = estudiantes; 
         }
     }
 }
