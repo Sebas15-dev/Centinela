@@ -1,0 +1,6 @@
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\bin\Debug\Entidades.dll
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\obj\Debug\Entidades.dll
+C:\Users\sebas\OneDrive\Desktop\Centinela\Entidades\obj\Debug\Entidades.pdb

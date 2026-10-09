@@ -1,0 +1,5 @@
+C:\Users\sebas\OneDrive\Desktop\Centinela\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\Centinela\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\OneDrive\Desktop\Centinela\Presentacion\obj\Debug\App.g.cs
+C:\Users\sebas\OneDrive\Desktop\Centinela\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\sebas\OneDrive\Desktop\Centinela\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
